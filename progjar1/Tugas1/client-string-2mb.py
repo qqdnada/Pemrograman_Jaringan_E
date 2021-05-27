@@ -3,7 +3,7 @@ import socket
 import string
 import random
 
-ip_address = ['192.168.122.175', '192.168.122.197']
+ip_address = ['192.168.122.205', '192.168.122.79']
 
 for ip in ip_address:
     # Create a TCP/IP socket
